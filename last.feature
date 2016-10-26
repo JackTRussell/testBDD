@@ -1,100 +1,100 @@
-@ST_88 @tagtagtag @this_is_story_tag
+@ST_94 @tagtagtag @this_is_story_tag
 Feature: New Feature name
 There is feature description 
 Lorem ipsum dolor sit amet, mea dico volumus copiosae cu, debet movet doctus ex nec, at 
 
-@SC_358
+@SC_518
 Scenario: Second scenario
 Some new description
 Given I created scenario with comments
 Then I see them in scenarioyyyy
 
-@SC_359
+@SC_519
 Scenario: new
 Some new description
 Given I created scenario with comments
 Then I see them in scenarioyyyy
 
-@SC_360
+@SC_520
 Scenario: Second scenario
 Some new description
 Given I created scenario with comments
 Then I see them in scenarioyyyy
 
-@SC_361
+@SC_521
 Scenario: new
 Some new description
 Given I created scenario with comments
 Then I see them in scenarioyyyy
 
-@SC_362
+@SC_522
 Scenario: new
 Some new description
 Given I created scenario with comments
 Then I see them in scenarioyyyy
 
-@SC_363
+@SC_523
 Scenario: Second scenario
 Some new description
 Given I created scenario with comments
 Then I see them in scenarioyyyy
 
-@SC_364
+@SC_524
 Scenario: Second scenario
 Some new description
 Given I created scenario with comments
 Then I see them in scenarioyyyy
 
-@SC_365
+@SC_525
 Scenario: new
 Some new description
 Given I created scenario with comments
 Then I see them in scenarioyyyy
 
-@SC_366
+@SC_526
 Scenario: Second scenario
 Some new description
 Given I created scenario with comments
 Then I see them in scenarioyyyy
 
-@SC_367
+@SC_527
 Scenario: Second scenario
 Some new description
 Given I created scenario with comments
 Then I see them in scenarioyyyy
 
-@SC_368
+@SC_528
 Scenario: Second scenario
 Some new description
 Given I created scenario with comments
 Then I see them in scenarioyyyy
 
-@SC_369
+@SC_529
 Scenario: new
 Some new description
 Given I created scenario with comments
 Then I see them in scenarioyyyy
 
-@SC_370
+@SC_530
 Scenario: new
 Some new description
 Given I created scenario with comments
 Then I see them in scenarioyyyy
 
-@SC_371
+@SC_531
 Scenario: Second scenario
 Some new description
 #SC_88
 Given I created scenario with comments
 Then I see them in scenarioyyyy
 
-@SC_372
+@SC_532
 Scenario: Second scenario
 Some new description
 Given I created scenario with comments
 Then I see them in scenarioyyyy
 
-@SC_373
+@SC_533
 Scenario: Second scenario
 Some new description
 Given I created scenario with comments

@@ -1,11 +1,11 @@
-@ST_10366666
+@ST_105
 Feature: new
 
 Background: 
 
 Given ttt
 
-@SC_587 @test
+@SC_597 @test
 Scenario Outline: new
 Given new
 And new <ttt>

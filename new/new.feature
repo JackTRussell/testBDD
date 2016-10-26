@@ -1,4 +1,3 @@
-@ST_102
 Feature: new
 
 Background: 

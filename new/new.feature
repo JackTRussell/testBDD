@@ -1,4 +1,4 @@
-@ST_101 @ST_546546
+@ST_101
 Feature: new
 
 Background: 
